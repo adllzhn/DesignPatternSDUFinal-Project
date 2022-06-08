@@ -1,0 +1,1400 @@
+мая 18, 2022 4:49:24 PM FileLogger <init>
+INFO: Your FileLogger is ready!
+мая 18, 2022 4:49:24 PM ReadFromFile read
+INFO: Duel number 1 has started!
+мая 18, 2022 4:49:24 PM ReadFromFile read
+INFO: Going into the Arena is the first coach - Kiefer Durwood, who is 40 years old!
+мая 18, 2022 4:49:24 PM ReadFromFile read
+INFO: Going into the Arena is the second coach - Dwight Eaton, who is 25 years old!
+мая 18, 2022 4:49:24 PM ReadFromFile read
+INFO: FIRST ADVENTURE BEGINS!
+мая 18, 2022 4:49:24 PM FightNeutrel1 fight
+INFO: This duel is between the following two pokemons!
+мая 18, 2022 4:49:24 PM FightNeutrel1 fight
+INFO: Pokemon{name='Bulbasaur', HP=44, normalAttack=0, specialAttack=10, normalDefense=5, specialDefense=3, ability1={damage=6, stun=false, dodge=false, coolDown=4}, ability2={damage=5, stun=false, dodge=false, coolDown=3}}
+мая 18, 2022 4:49:24 PM FightNeutrel1 fight
+INFO: Pokemon{name='Neutrel1', HP=10, normalAttack=3, specialAttack=0, normalDefense=1, specialDefense=1}
+мая 18, 2022 4:49:24 PM FightNeutrel1 getStunAbility2
+INFO: Pokemon{name='Bulbasaur', HP=44, normalAttack=0, specialAttack=10, normalDefense=5, specialDefense=3, ability1={damage=6, stun=false, dodge=false, coolDown=4}, ability2={damage=5, stun=false, dodge=false, coolDown=3}}
+мая 18, 2022 4:49:24 PM FightNeutrel1 getStunAbility2
+INFO: Pokemon{name='Neutrel1', HP=5, normalAttack=3, specialAttack=0, normalDefense=1, specialDefense=1}
+мая 18, 2022 4:49:24 PM FightNeutrel1 getStunAbility2
+INFO: Cooldown ability 2 is 3
+мая 18, 2022 4:49:24 PM FightNeutrel1 fight
+INFO: Bulbasaur attacks and Neutrel1 attacks!
+мая 18, 2022 4:49:24 PM FightNeutrel1 checkCooldown
+INFO: Pokemon{name='Bulbasaur', HP=44, normalAttack=0, specialAttack=10, normalDefense=5, specialDefense=3, ability1={damage=6, stun=false, dodge=false, coolDown=4}, ability2={damage=5, stun=false, dodge=false, coolDown=3}}
+мая 18, 2022 4:49:24 PM FightNeutrel1 checkCooldown
+INFO: Pokemon{name='Neutrel1', HP=-5, normalAttack=3, specialAttack=0, normalDefense=1, specialDefense=1}
+мая 18, 2022 4:49:24 PM FightNeutrel1 checkCooldown
+INFO: Cooldown ability 2 is 2
+мая 18, 2022 4:49:24 PM FightNeutrel1 fight
+INFO: Bulbasaur wins!
+мая 18, 2022 4:49:24 PM Arena startDuel
+INFO: The first coach wins!
+мая 18, 2022 4:49:24 PM Arena startDuel
+INFO: The pokemon is now boosted
+мая 18, 2022 4:49:24 PM Arena startDuel
+INFO: Pokemon{name='Bulbasaur', HP=45, normalAttack=0, specialAttack=11, normalDefense=6, specialDefense=4, ability1={damage=6, stun=false, dodge=false, coolDown=4}, ability2={damage=5, stun=false, dodge=false, coolDown=3}}
+мая 18, 2022 4:49:24 PM FightNeutrel1 fight
+INFO: This duel is between the following two pokemons!
+мая 18, 2022 4:49:24 PM FightNeutrel1 fight
+INFO: Pokemon{name='Pikachu', HP=45, normalAttack=0, specialAttack=7, normalDefense=4, specialDefense=5, ability1={damage=6, stun=false, dodge=false, coolDown=4}, ability2={damage=4, stun=true, dodge=true, coolDown=5}}
+мая 18, 2022 4:49:24 PM FightNeutrel1 fight
+INFO: Pokemon{name='Neutrel1', HP=10, normalAttack=3, specialAttack=0, normalDefense=1, specialDefense=1}
+мая 18, 2022 4:49:24 PM FightNeutrel1 fight
+INFO: Pikachu attacks and Neutrel1 attacks!
+мая 18, 2022 4:49:24 PM FightNeutrel1 checkCooldown
+INFO: Pokemon{name='Pikachu', HP=45, normalAttack=0, specialAttack=7, normalDefense=4, specialDefense=5, ability1={damage=6, stun=false, dodge=false, coolDown=4}, ability2={damage=4, stun=true, dodge=true, coolDown=5}}
+мая 18, 2022 4:49:24 PM FightNeutrel1 checkCooldown
+INFO: Pokemon{name='Neutrel1', HP=3, normalAttack=3, specialAttack=0, normalDefense=1, specialDefense=1}
+мая 18, 2022 4:49:24 PM FightNeutrel1 fight
+INFO: Pikachu attacks and Neutrel1 attacks!
+мая 18, 2022 4:49:24 PM FightNeutrel1 checkCooldown
+INFO: Pokemon{name='Pikachu', HP=45, normalAttack=0, specialAttack=7, normalDefense=4, specialDefense=5, ability1={damage=6, stun=false, dodge=false, coolDown=4}, ability2={damage=4, stun=true, dodge=true, coolDown=5}}
+мая 18, 2022 4:49:24 PM FightNeutrel1 checkCooldown
+INFO: Pokemon{name='Neutrel1', HP=-4, normalAttack=3, specialAttack=0, normalDefense=1, specialDefense=1}
+мая 18, 2022 4:49:24 PM FightNeutrel1 fight
+INFO: Pikachu wins!
+мая 18, 2022 4:49:24 PM Arena startDuel
+INFO: The second coach wins!
+мая 18, 2022 4:49:24 PM Arena startDuel
+INFO: The pokemon is now boosted
+мая 18, 2022 4:49:24 PM Arena startDuel
+INFO: Pokemon{name='Pikachu', HP=46, normalAttack=0, specialAttack=8, normalDefense=5, specialDefense=6, ability1={damage=6, stun=false, dodge=false, coolDown=4}, ability2={damage=4, stun=true, dodge=true, coolDown=5}}
+мая 18, 2022 4:49:24 PM CoachesBattle battle
+INFO: This duel is between the following two pokemons!
+мая 18, 2022 4:49:24 PM CoachesBattle battle
+INFO: Pokemon{name='Bulbasaur', HP=45, normalAttack=0, specialAttack=11, normalDefense=6, specialDefense=4, ability1={damage=6, stun=false, dodge=false, coolDown=4}, ability2={damage=5, stun=false, dodge=false, coolDown=3}}
+мая 18, 2022 4:49:24 PM CoachesBattle battle
+INFO: Pokemon{name='Pikachu', HP=46, normalAttack=0, specialAttack=8, normalDefense=5, specialDefense=6, ability1={damage=6, stun=false, dodge=false, coolDown=4}, ability2={damage=4, stun=true, dodge=true, coolDown=5}}
+мая 18, 2022 4:49:24 PM HelpBattle1 abilityVsAttack
+INFO: Pokemon Pikachu attacks!
+мая 18, 2022 4:49:24 PM HelpBattle1 abilityVsAttack
+INFO: Pokemon Bulbasaur uses ability 2!
+мая 18, 2022 4:49:24 PM HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Pikachu is 0
+мая 18, 2022 4:49:24 PM CoachesBattle battle
+INFO: Bulbasaur has 41 HP!
+мая 18, 2022 4:49:24 PM CoachesBattle battle
+INFO: Pikachu has 41 HP!
+мая 18, 2022 4:49:24 PM HelpBattle abilityVsAbility
+INFO: Pokemon Bulbasaur uses ability 1!
+мая 18, 2022 4:49:24 PM HelpBattle abilityVsAbility
+INFO: Pokemon Pikachu uses ability 1!
+мая 18, 2022 4:49:24 PM CoachesBattle battle
+INFO: Cooldown ability 2 for Bulbasaur is 2
+мая 18, 2022 4:49:24 PM CoachesBattle battle
+INFO: Bulbasaur has 35 HP!
+мая 18, 2022 4:49:24 PM CoachesBattle battle
+INFO: Pikachu has 35 HP!
+мая 18, 2022 4:49:26 PM HelpBattle1 abilityVsAttack
+INFO: Pokemon Bulbasaur attacks!
+мая 18, 2022 4:49:26 PM HelpBattle1 abilityVsAttack
+INFO: Pokemon Pikachu uses ability 2!
+мая 18, 2022 4:49:26 PM HelpBattle1 abilityVsAttack
+INFO: Pokemon Pikachu dodges the attack!
+мая 18, 2022 4:49:26 PM CoachesBattle battle
+INFO: Cooldown ability 1 for Pikachu is 3
+мая 18, 2022 4:49:26 PM HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Bulbasaur is 3
+мая 18, 2022 4:49:26 PM HelpBattle2 checkCooldown
+INFO: Cooldown ability 2 for Bulbasaur is 1
+мая 18, 2022 4:49:26 PM CoachesBattle battle
+INFO: Bulbasaur has 31 HP!
+мая 18, 2022 4:49:26 PM CoachesBattle battle
+INFO: Pikachu has 35 HP!
+мая 18, 2022 4:49:33 PM HelpBattle2 pokemonsAttack
+INFO: Pokemon Bulbasaur is stunned!
+мая 18, 2022 4:49:33 PM HelpBattle2 pokemonsAttack
+INFO: Pokemon Pikachu attacks!
+мая 18, 2022 4:49:33 PM HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Bulbasaur is 2
+мая 18, 2022 4:49:33 PM HelpBattle2 checkCooldown
+INFO: Cooldown ability 2 for Bulbasaur is 0
+мая 18, 2022 4:49:33 PM HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Pikachu is 2
+мая 18, 2022 4:49:33 PM HelpBattle2 checkCooldown
+INFO: Cooldown ability 2 for Pikachu is 4
+мая 18, 2022 4:49:33 PM CoachesBattle battle
+INFO: Bulbasaur has 27 HP!
+мая 18, 2022 4:49:33 PM CoachesBattle battle
+INFO: Pikachu has 35 HP!
+мая 18, 2022 4:49:33 PM HelpBattle2 pokemonsAttack
+INFO: Pokemon Bulbasaur attacks!
+мая 18, 2022 4:49:33 PM HelpBattle2 pokemonsAttack
+INFO: Pokemon Pikachu attacks!
+мая 18, 2022 4:49:33 PM HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Bulbasaur is 1
+мая 18, 2022 4:49:33 PM HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Pikachu is 1
+мая 18, 2022 4:49:33 PM HelpBattle2 checkCooldown
+INFO: Cooldown ability 2 for Pikachu is 3
+мая 18, 2022 4:49:33 PM CoachesBattle battle
+INFO: Bulbasaur has 23 HP!
+мая 18, 2022 4:49:33 PM CoachesBattle battle
+INFO: Pikachu has 30 HP!
+мая 18, 2022 4:49:33 PM HelpBattle2 pokemonsAttack
+INFO: Pokemon Bulbasaur attacks!
+мая 18, 2022 4:49:33 PM HelpBattle2 pokemonsAttack
+INFO: Pokemon Pikachu attacks!
+мая 18, 2022 4:49:33 PM HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Bulbasaur is 0
+мая 18, 2022 4:49:33 PM HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Pikachu is 0
+мая 18, 2022 4:49:33 PM HelpBattle2 checkCooldown
+INFO: Cooldown ability 2 for Pikachu is 2
+мая 18, 2022 4:49:33 PM CoachesBattle battle
+INFO: Bulbasaur has 19 HP!
+мая 18, 2022 4:49:33 PM CoachesBattle battle
+INFO: Pikachu has 25 HP!
+мая 18, 2022 4:49:33 PM HelpBattle2 pokemonsAttack
+INFO: Pokemon Bulbasaur attacks!
+мая 18, 2022 4:49:33 PM HelpBattle2 pokemonsAttack
+INFO: Pokemon Pikachu attacks!
+мая 18, 2022 4:49:33 PM HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Bulbasaur is 0
+мая 18, 2022 4:49:33 PM HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Pikachu is 0
+мая 18, 2022 4:49:33 PM HelpBattle2 checkCooldown
+INFO: Cooldown ability 2 for Pikachu is 1
+мая 18, 2022 4:49:33 PM CoachesBattle battle
+INFO: Bulbasaur has 15 HP!
+мая 18, 2022 4:49:33 PM CoachesBattle battle
+INFO: Pikachu has 20 HP!
+мая 18, 2022 4:49:33 PM HelpBattle2 pokemonsAttack
+INFO: Pokemon Bulbasaur attacks!
+мая 18, 2022 4:49:33 PM HelpBattle2 pokemonsAttack
+INFO: Pokemon Pikachu attacks!
+мая 18, 2022 4:49:33 PM HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Bulbasaur is 0
+мая 18, 2022 4:49:33 PM HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Pikachu is 0
+мая 18, 2022 4:49:33 PM HelpBattle2 checkCooldown
+INFO: Cooldown ability 2 for Pikachu is 0
+мая 18, 2022 4:49:33 PM CoachesBattle battle
+INFO: Bulbasaur has 11 HP!
+мая 18, 2022 4:49:33 PM CoachesBattle battle
+INFO: Pikachu has 15 HP!
+мая 18, 2022 4:49:33 PM HelpBattle2 pokemonsAttack
+INFO: Pokemon Bulbasaur attacks!
+мая 18, 2022 4:49:33 PM HelpBattle2 pokemonsAttack
+INFO: Pokemon Pikachu attacks!
+мая 18, 2022 4:49:33 PM HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Bulbasaur is 0
+мая 18, 2022 4:49:33 PM HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Pikachu is 0
+мая 18, 2022 4:49:33 PM CoachesBattle battle
+INFO: Bulbasaur has 7 HP!
+мая 18, 2022 4:49:33 PM CoachesBattle battle
+INFO: Pikachu has 10 HP!
+мая 18, 2022 4:49:33 PM HelpBattle2 pokemonsAttack
+INFO: Pokemon Bulbasaur attacks!
+мая 18, 2022 4:49:33 PM HelpBattle2 pokemonsAttack
+INFO: Pokemon Pikachu attacks!
+мая 18, 2022 4:49:33 PM HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Bulbasaur is 0
+мая 18, 2022 4:49:33 PM HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Pikachu is 0
+мая 18, 2022 4:49:33 PM CoachesBattle battle
+INFO: Bulbasaur has 3 HP!
+мая 18, 2022 4:49:33 PM CoachesBattle battle
+INFO: Pikachu has 5 HP!
+мая 18, 2022 4:49:33 PM HelpBattle2 pokemonsAttack
+INFO: Pokemon Bulbasaur attacks!
+мая 18, 2022 4:49:33 PM HelpBattle2 pokemonsAttack
+INFO: Pokemon Pikachu attacks!
+мая 18, 2022 4:49:33 PM HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Bulbasaur is 0
+мая 18, 2022 4:49:33 PM HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Pikachu is 0
+мая 18, 2022 4:49:33 PM CoachesBattle battle
+INFO: Bulbasaur has -1 HP!
+мая 18, 2022 4:49:33 PM CoachesBattle battle
+INFO: Pikachu has 0 HP!
+мая 18, 2022 4:49:33 PM PokemonHelperClassForBattle checkWinner
+INFO: Pokemon Pikachu wins!
+мая 18, 2022 4:49:33 PM PokemonHelperClassForBattle checkWinner
+INFO: The second coach wins!
+мая 18, 2022 4:49:33 PM PokemonHelperClassForBattle checkWinner
+INFO: The pokemon is now boosted
+мая 18, 2022 4:49:33 PM PokemonHelperClassForBattle checkWinner
+INFO: Pokemon{name='Pikachu', HP=47, normalAttack=0, specialAttack=9, normalDefense=6, specialDefense=7, ability1={damage=6, stun=false, dodge=false, coolDown=4}, ability2={damage=4, stun=true, dodge=true, coolDown=5}}
+мая 18, 2022 4:49:33 PM ReadFromFile read
+INFO: Pokemon{name='Bulbasaur', HP=45, normalAttack=0, specialAttack=11, normalDefense=6, specialDefense=4, ability1={damage=6, stun=false, dodge=false, coolDown=4}, ability2={damage=5, stun=false, dodge=false, coolDown=3}}
+мая 18, 2022 4:49:33 PM ReadFromFile read
+INFO: Pokemon{name='Pikachu', HP=47, normalAttack=0, specialAttack=9, normalDefense=6, specialDefense=7, ability1={damage=6, stun=false, dodge=false, coolDown=4}, ability2={damage=4, stun=true, dodge=true, coolDown=5}}
+мая 18, 2022 4:49:33 PM ReadFromFile read
+INFO: SECOND ADVENTURE BEGINS!
+мая 18, 2022 4:49:33 PM FightNeutrel2 fight
+INFO: This duel is between the following two pokemons!
+мая 18, 2022 4:49:33 PM FightNeutrel2 fight
+INFO: Pokemon{name='Vulpix', HP=46, normalAttack=11, specialAttack=0, normalDefense=3, specialDefense=4, ability1={damage=8, stun=true, dodge=false, coolDown=6}, ability2={damage=2, stun=false, dodge=true, coolDown=7}}
+мая 18, 2022 4:49:33 PM FightNeutrel2 fight
+INFO: Pokemon{name='Neutrel2', HP=20, normalAttack=4, specialAttack=0, normalDefense=1, specialDefense=1}
+мая 18, 2022 4:49:33 PM FightNeutrel2 fight
+INFO: Vulpix uses ability 1 and Neutrel2 attacks!
+мая 18, 2022 4:49:33 PM FightNeutrel1 getStunAbility1
+INFO: Pokemon{name='Vulpix', HP=45, normalAttack=11, specialAttack=0, normalDefense=3, specialDefense=4, ability1={damage=8, stun=true, dodge=false, coolDown=6}, ability2={damage=2, stun=false, dodge=true, coolDown=7}}
+мая 18, 2022 4:49:33 PM FightNeutrel1 getStunAbility1
+INFO: Pokemon{name='Neutrel2', HP=12, normalAttack=4, specialAttack=0, normalDefense=1, specialDefense=1}
+мая 18, 2022 4:49:33 PM FightNeutrel1 getStunAbility1
+INFO: Cooldown ability 1 is 6
+мая 18, 2022 4:49:33 PM FightNeutrel2 fight
+INFO: Vulpix attacks and Neutrel2 is stuned!
+мая 18, 2022 4:49:33 PM FightNeutrel1 checkCooldown
+INFO: Pokemon{name='Vulpix', HP=45, normalAttack=11, specialAttack=0, normalDefense=3, specialDefense=4, ability1={damage=8, stun=true, dodge=false, coolDown=6}, ability2={damage=2, stun=false, dodge=true, coolDown=7}}
+мая 18, 2022 4:49:33 PM FightNeutrel1 checkCooldown
+INFO: Pokemon{name='Neutrel2', HP=2, normalAttack=4, specialAttack=0, normalDefense=1, specialDefense=1}
+мая 18, 2022 4:49:33 PM FightNeutrel1 checkCooldown
+INFO: Cooldown ability 1 is 5
+мая 18, 2022 4:49:33 PM FightNeutrel2 fight
+INFO: Vulpix attacks and Neutrel2 attacks!
+мая 18, 2022 4:49:33 PM FightNeutrel1 checkCooldown
+INFO: Pokemon{name='Vulpix', HP=44, normalAttack=11, specialAttack=0, normalDefense=3, specialDefense=4, ability1={damage=8, stun=true, dodge=false, coolDown=6}, ability2={damage=2, stun=false, dodge=true, coolDown=7}}
+мая 18, 2022 4:49:33 PM FightNeutrel1 checkCooldown
+INFO: Pokemon{name='Neutrel2', HP=-8, normalAttack=4, specialAttack=0, normalDefense=1, specialDefense=1}
+мая 18, 2022 4:49:33 PM FightNeutrel1 checkCooldown
+INFO: Cooldown ability 1 is 4
+мая 18, 2022 4:49:33 PM FightNeutrel2 fight
+INFO: Vulpix wins!
+мая 18, 2022 4:49:33 PM Arena startDuel
+INFO: The first coach wins!
+мая 18, 2022 4:49:33 PM Arena startDuel
+INFO: The pokemon is now boosted
+мая 18, 2022 4:49:33 PM Arena startDuel
+INFO: Pokemon{name='Vulpix', HP=47, normalAttack=12, specialAttack=0, normalDefense=4, specialDefense=5, ability1={damage=8, stun=true, dodge=false, coolDown=6}, ability2={damage=2, stun=false, dodge=true, coolDown=7}}
+мая 18, 2022 4:49:33 PM FightNeutrel2 fight
+INFO: This duel is between the following two pokemons!
+мая 18, 2022 4:49:33 PM FightNeutrel2 fight
+INFO: Pokemon{name='Meowth', HP=43, normalAttack=8, specialAttack=0, normalDefense=4, specialDefense=5, ability1={damage=5, stun=false, dodge=true, coolDown=4}, ability2={damage=1, stun=false, dodge=true, coolDown=3}}
+мая 18, 2022 4:49:33 PM FightNeutrel2 fight
+INFO: Pokemon{name='Neutrel2', HP=20, normalAttack=4, specialAttack=0, normalDefense=1, specialDefense=1}
+мая 18, 2022 4:49:33 PM FightNeutrel2 fight
+INFO: Meowth attacks and Neutrel2 attacks!
+мая 18, 2022 4:49:33 PM FightNeutrel1 checkCooldown
+INFO: Pokemon{name='Meowth', HP=43, normalAttack=8, specialAttack=0, normalDefense=4, specialDefense=5, ability1={damage=5, stun=false, dodge=true, coolDown=4}, ability2={damage=1, stun=false, dodge=true, coolDown=3}}
+мая 18, 2022 4:49:33 PM FightNeutrel1 checkCooldown
+INFO: Pokemon{name='Neutrel2', HP=13, normalAttack=4, specialAttack=0, normalDefense=1, specialDefense=1}
+мая 18, 2022 4:49:33 PM FightNeutrel2 fight
+INFO: Meowth attacks and Neutrel2 attacks!
+мая 18, 2022 4:49:33 PM FightNeutrel1 checkCooldown
+INFO: Pokemon{name='Meowth', HP=43, normalAttack=8, specialAttack=0, normalDefense=4, specialDefense=5, ability1={damage=5, stun=false, dodge=true, coolDown=4}, ability2={damage=1, stun=false, dodge=true, coolDown=3}}
+мая 18, 2022 4:49:33 PM FightNeutrel1 checkCooldown
+INFO: Pokemon{name='Neutrel2', HP=6, normalAttack=4, specialAttack=0, normalDefense=1, specialDefense=1}
+мая 18, 2022 4:49:33 PM FightNeutrel2 fight
+INFO: Meowth attacks and Neutrel2 attacks!
+мая 18, 2022 4:49:33 PM FightNeutrel1 checkCooldown
+INFO: Pokemon{name='Meowth', HP=43, normalAttack=8, specialAttack=0, normalDefense=4, specialDefense=5, ability1={damage=5, stun=false, dodge=true, coolDown=4}, ability2={damage=1, stun=false, dodge=true, coolDown=3}}
+мая 18, 2022 4:49:33 PM FightNeutrel1 checkCooldown
+INFO: Pokemon{name='Neutrel2', HP=-1, normalAttack=4, specialAttack=0, normalDefense=1, specialDefense=1}
+мая 18, 2022 4:49:33 PM FightNeutrel2 fight
+INFO: Meowth wins!
+мая 18, 2022 4:49:33 PM Arena startDuel
+INFO: The second coach wins!
+мая 18, 2022 4:49:33 PM Arena startDuel
+INFO: The pokemon is now boosted
+мая 18, 2022 4:49:33 PM Arena startDuel
+INFO: Pokemon{name='Meowth', HP=44, normalAttack=9, specialAttack=0, normalDefense=5, specialDefense=6, ability1={damage=5, stun=false, dodge=true, coolDown=4}, ability2={damage=1, stun=false, dodge=true, coolDown=3}}
+мая 18, 2022 4:49:33 PM FightNeutrel1 fight
+INFO: This duel is between the following two pokemons!
+мая 18, 2022 4:49:33 PM FightNeutrel1 fight
+INFO: Pokemon{name='Vulpix', HP=47, normalAttack=12, specialAttack=0, normalDefense=4, specialDefense=5, ability1={damage=8, stun=true, dodge=false, coolDown=6}, ability2={damage=2, stun=false, dodge=true, coolDown=7}}
+мая 18, 2022 4:49:33 PM FightNeutrel1 fight
+INFO: Pokemon{name='Neutrel1', HP=10, normalAttack=3, specialAttack=0, normalDefense=1, specialDefense=1}
+мая 18, 2022 4:49:33 PM FightNeutrel1 fight
+INFO: Vulpix attacks and Neutrel1 attacks!
+мая 18, 2022 4:49:33 PM FightNeutrel1 checkCooldown
+INFO: Pokemon{name='Vulpix', HP=47, normalAttack=12, specialAttack=0, normalDefense=4, specialDefense=5, ability1={damage=8, stun=true, dodge=false, coolDown=6}, ability2={damage=2, stun=false, dodge=true, coolDown=7}}
+мая 18, 2022 4:49:33 PM FightNeutrel1 checkCooldown
+INFO: Pokemon{name='Neutrel1', HP=-1, normalAttack=3, specialAttack=0, normalDefense=1, specialDefense=1}
+мая 18, 2022 4:49:33 PM FightNeutrel1 fight
+INFO: Vulpix wins!
+мая 18, 2022 4:49:33 PM Arena startDuel
+INFO: The first coach wins!
+мая 18, 2022 4:49:33 PM Arena startDuel
+INFO: The pokemon is now boosted
+мая 18, 2022 4:49:33 PM Arena startDuel
+INFO: Pokemon{name='Vulpix', HP=48, normalAttack=13, specialAttack=0, normalDefense=5, specialDefense=6, ability1={damage=8, stun=true, dodge=false, coolDown=6}, ability2={damage=2, stun=false, dodge=true, coolDown=7}}
+мая 18, 2022 4:49:33 PM FightNeutrel1 fight
+INFO: This duel is between the following two pokemons!
+мая 18, 2022 4:49:33 PM FightNeutrel1 fight
+INFO: Pokemon{name='Meowth', HP=44, normalAttack=9, specialAttack=0, normalDefense=5, specialDefense=6, ability1={damage=5, stun=false, dodge=true, coolDown=4}, ability2={damage=1, stun=false, dodge=true, coolDown=3}}
+мая 18, 2022 4:49:33 PM FightNeutrel1 fight
+INFO: Pokemon{name='Neutrel1', HP=10, normalAttack=3, specialAttack=0, normalDefense=1, specialDefense=1}
+мая 18, 2022 4:49:33 PM FightNeutrel1 fight
+INFO: Meowth attacks and Neutrel1 attacks!
+мая 18, 2022 4:49:33 PM FightNeutrel1 checkCooldown
+INFO: Pokemon{name='Meowth', HP=44, normalAttack=9, specialAttack=0, normalDefense=5, specialDefense=6, ability1={damage=5, stun=false, dodge=true, coolDown=4}, ability2={damage=1, stun=false, dodge=true, coolDown=3}}
+мая 18, 2022 4:49:33 PM FightNeutrel1 checkCooldown
+INFO: Pokemon{name='Neutrel1', HP=2, normalAttack=3, specialAttack=0, normalDefense=1, specialDefense=1}
+мая 18, 2022 4:49:33 PM FightNeutrel1 getStunAbility1
+INFO: Pokemon{name='Meowth', HP=44, normalAttack=9, specialAttack=0, normalDefense=5, specialDefense=6, ability1={damage=5, stun=false, dodge=true, coolDown=4}, ability2={damage=1, stun=false, dodge=true, coolDown=3}}
+мая 18, 2022 4:49:33 PM FightNeutrel1 getStunAbility1
+INFO: Pokemon{name='Neutrel1', HP=-3, normalAttack=3, specialAttack=0, normalDefense=1, specialDefense=1}
+мая 18, 2022 4:49:33 PM FightNeutrel1 getStunAbility1
+INFO: Cooldown ability 1 is 4
+мая 18, 2022 4:49:33 PM FightNeutrel1 fight
+INFO: Meowth wins!
+мая 18, 2022 4:49:33 PM Arena startDuel
+INFO: The second coach wins!
+мая 18, 2022 4:49:33 PM Arena startDuel
+INFO: The pokemon is now boosted
+мая 18, 2022 4:49:33 PM Arena startDuel
+INFO: Pokemon{name='Meowth', HP=45, normalAttack=10, specialAttack=0, normalDefense=6, specialDefense=7, ability1={damage=5, stun=false, dodge=true, coolDown=4}, ability2={damage=1, stun=false, dodge=true, coolDown=3}}
+мая 18, 2022 4:49:33 PM FightNeutrel2 fight
+INFO: This duel is between the following two pokemons!
+мая 18, 2022 4:49:33 PM FightNeutrel2 fight
+INFO: Pokemon{name='Vulpix', HP=48, normalAttack=13, specialAttack=0, normalDefense=5, specialDefense=6, ability1={damage=8, stun=true, dodge=false, coolDown=6}, ability2={damage=2, stun=false, dodge=true, coolDown=7}}
+мая 18, 2022 4:49:33 PM FightNeutrel2 fight
+INFO: Pokemon{name='Neutrel2', HP=20, normalAttack=4, specialAttack=0, normalDefense=1, specialDefense=1}
+мая 18, 2022 4:49:33 PM FightNeutrel2 fight
+INFO: Vulpix attacks and Neutrel2 attacks!
+мая 18, 2022 4:49:33 PM FightNeutrel1 checkCooldown
+INFO: Pokemon{name='Vulpix', HP=48, normalAttack=13, specialAttack=0, normalDefense=5, specialDefense=6, ability1={damage=8, stun=true, dodge=false, coolDown=6}, ability2={damage=2, stun=false, dodge=true, coolDown=7}}
+мая 18, 2022 4:49:33 PM FightNeutrel1 checkCooldown
+INFO: Pokemon{name='Neutrel2', HP=8, normalAttack=4, specialAttack=0, normalDefense=1, specialDefense=1}
+мая 18, 2022 4:49:33 PM FightNeutrel2 fight
+INFO: Vulpix attacks and Neutrel2 attacks!
+мая 18, 2022 4:49:33 PM FightNeutrel1 checkCooldown
+INFO: Pokemon{name='Vulpix', HP=48, normalAttack=13, specialAttack=0, normalDefense=5, specialDefense=6, ability1={damage=8, stun=true, dodge=false, coolDown=6}, ability2={damage=2, stun=false, dodge=true, coolDown=7}}
+мая 18, 2022 4:49:33 PM FightNeutrel1 checkCooldown
+INFO: Pokemon{name='Neutrel2', HP=-4, normalAttack=4, specialAttack=0, normalDefense=1, specialDefense=1}
+мая 18, 2022 4:49:33 PM FightNeutrel2 fight
+INFO: Vulpix wins!
+мая 18, 2022 4:49:33 PM Arena startDuel
+INFO: The first coach wins!
+мая 18, 2022 4:49:33 PM Arena startDuel
+INFO: The pokemon is now boosted
+мая 18, 2022 4:49:33 PM Arena startDuel
+INFO: Pokemon{name='Vulpix', HP=49, normalAttack=14, specialAttack=0, normalDefense=6, specialDefense=7, ability1={damage=8, stun=true, dodge=false, coolDown=6}, ability2={damage=2, stun=false, dodge=true, coolDown=7}}
+мая 18, 2022 4:49:33 PM FightNeutrel2 fight
+INFO: This duel is between the following two pokemons!
+мая 18, 2022 4:49:33 PM FightNeutrel2 fight
+INFO: Pokemon{name='Meowth', HP=45, normalAttack=10, specialAttack=0, normalDefense=6, specialDefense=7, ability1={damage=5, stun=false, dodge=true, coolDown=4}, ability2={damage=1, stun=false, dodge=true, coolDown=3}}
+мая 18, 2022 4:49:33 PM FightNeutrel2 fight
+INFO: Pokemon{name='Neutrel2', HP=20, normalAttack=4, specialAttack=0, normalDefense=1, specialDefense=1}
+мая 18, 2022 4:49:33 PM FightNeutrel1 getStunAbility1
+INFO: Pokemon{name='Meowth', HP=45, normalAttack=10, specialAttack=0, normalDefense=6, specialDefense=7, ability1={damage=5, stun=false, dodge=true, coolDown=4}, ability2={damage=1, stun=false, dodge=true, coolDown=3}}
+мая 18, 2022 4:49:33 PM FightNeutrel1 getStunAbility1
+INFO: Pokemon{name='Neutrel2', HP=15, normalAttack=4, specialAttack=0, normalDefense=1, specialDefense=1}
+мая 18, 2022 4:49:33 PM FightNeutrel1 getStunAbility1
+INFO: Cooldown ability 1 is 4
+мая 18, 2022 4:49:33 PM FightNeutrel2 fight
+INFO: Meowth attacks and Neutrel2 attacks!
+мая 18, 2022 4:49:33 PM FightNeutrel1 checkCooldown
+INFO: Pokemon{name='Meowth', HP=45, normalAttack=10, specialAttack=0, normalDefense=6, specialDefense=7, ability1={damage=5, stun=false, dodge=true, coolDown=4}, ability2={damage=1, stun=false, dodge=true, coolDown=3}}
+мая 18, 2022 4:49:33 PM FightNeutrel1 checkCooldown
+INFO: Pokemon{name='Neutrel2', HP=6, normalAttack=4, specialAttack=0, normalDefense=1, specialDefense=1}
+мая 18, 2022 4:49:33 PM FightNeutrel1 checkCooldown
+INFO: Cooldown ability 1 is 3
+мая 18, 2022 4:49:33 PM FightNeutrel2 fight
+INFO: Meowth attacks and Neutrel2 attacks!
+мая 18, 2022 4:49:33 PM FightNeutrel1 checkCooldown
+INFO: Pokemon{name='Meowth', HP=45, normalAttack=10, specialAttack=0, normalDefense=6, specialDefense=7, ability1={damage=5, stun=false, dodge=true, coolDown=4}, ability2={damage=1, stun=false, dodge=true, coolDown=3}}
+мая 18, 2022 4:49:33 PM FightNeutrel1 checkCooldown
+INFO: Pokemon{name='Neutrel2', HP=-3, normalAttack=4, specialAttack=0, normalDefense=1, specialDefense=1}
+мая 18, 2022 4:49:33 PM FightNeutrel1 checkCooldown
+INFO: Cooldown ability 1 is 2
+мая 18, 2022 4:49:33 PM FightNeutrel2 fight
+INFO: Meowth wins!
+мая 18, 2022 4:49:33 PM Arena startDuel
+INFO: The second coach wins!
+мая 18, 2022 4:49:33 PM Arena startDuel
+INFO: The pokemon is now boosted
+мая 18, 2022 4:49:33 PM Arena startDuel
+INFO: Pokemon{name='Meowth', HP=46, normalAttack=11, specialAttack=0, normalDefense=7, specialDefense=8, ability1={damage=5, stun=false, dodge=true, coolDown=4}, ability2={damage=1, stun=false, dodge=true, coolDown=3}}
+мая 18, 2022 4:49:33 PM FightNeutrel2 fight
+INFO: This duel is between the following two pokemons!
+мая 18, 2022 4:49:33 PM FightNeutrel2 fight
+INFO: Pokemon{name='Vulpix', HP=49, normalAttack=14, specialAttack=0, normalDefense=6, specialDefense=7, ability1={damage=8, stun=true, dodge=false, coolDown=6}, ability2={damage=2, stun=false, dodge=true, coolDown=7}}
+мая 18, 2022 4:49:33 PM FightNeutrel2 fight
+INFO: Pokemon{name='Neutrel2', HP=20, normalAttack=4, specialAttack=0, normalDefense=1, specialDefense=1}
+мая 18, 2022 4:49:33 PM FightNeutrel2 fight
+INFO: Vulpix attacks and Neutrel2 attacks!
+мая 18, 2022 4:49:33 PM FightNeutrel1 checkCooldown
+INFO: Pokemon{name='Vulpix', HP=49, normalAttack=14, specialAttack=0, normalDefense=6, specialDefense=7, ability1={damage=8, stun=true, dodge=false, coolDown=6}, ability2={damage=2, stun=false, dodge=true, coolDown=7}}
+мая 18, 2022 4:49:33 PM FightNeutrel1 checkCooldown
+INFO: Pokemon{name='Neutrel2', HP=7, normalAttack=4, specialAttack=0, normalDefense=1, specialDefense=1}
+мая 18, 2022 4:49:33 PM FightNeutrel2 fight
+INFO: Vulpix attacks and Neutrel2 attacks!
+мая 18, 2022 4:49:33 PM FightNeutrel1 checkCooldown
+INFO: Pokemon{name='Vulpix', HP=49, normalAttack=14, specialAttack=0, normalDefense=6, specialDefense=7, ability1={damage=8, stun=true, dodge=false, coolDown=6}, ability2={damage=2, stun=false, dodge=true, coolDown=7}}
+мая 18, 2022 4:49:33 PM FightNeutrel1 checkCooldown
+INFO: Pokemon{name='Neutrel2', HP=-6, normalAttack=4, specialAttack=0, normalDefense=1, specialDefense=1}
+мая 18, 2022 4:49:33 PM FightNeutrel2 fight
+INFO: Vulpix wins!
+мая 18, 2022 4:49:33 PM Arena startDuel
+INFO: The first coach wins!
+мая 18, 2022 4:49:33 PM Arena startDuel
+INFO: The pokemon is now boosted
+мая 18, 2022 4:49:33 PM Arena startDuel
+INFO: Pokemon{name='Vulpix', HP=50, normalAttack=15, specialAttack=0, normalDefense=7, specialDefense=8, ability1={damage=8, stun=true, dodge=false, coolDown=6}, ability2={damage=2, stun=false, dodge=true, coolDown=7}}
+мая 18, 2022 4:49:33 PM FightNeutrel2 fight
+INFO: This duel is between the following two pokemons!
+мая 18, 2022 4:49:33 PM FightNeutrel2 fight
+INFO: Pokemon{name='Meowth', HP=46, normalAttack=11, specialAttack=0, normalDefense=7, specialDefense=8, ability1={damage=5, stun=false, dodge=true, coolDown=4}, ability2={damage=1, stun=false, dodge=true, coolDown=3}}
+мая 18, 2022 4:49:33 PM FightNeutrel2 fight
+INFO: Pokemon{name='Neutrel2', HP=20, normalAttack=4, specialAttack=0, normalDefense=1, specialDefense=1}
+мая 18, 2022 4:49:33 PM FightNeutrel1 getStunAbility1
+INFO: Pokemon{name='Meowth', HP=46, normalAttack=11, specialAttack=0, normalDefense=7, specialDefense=8, ability1={damage=5, stun=false, dodge=true, coolDown=4}, ability2={damage=1, stun=false, dodge=true, coolDown=3}}
+мая 18, 2022 4:49:33 PM FightNeutrel1 getStunAbility1
+INFO: Pokemon{name='Neutrel2', HP=15, normalAttack=4, specialAttack=0, normalDefense=1, specialDefense=1}
+мая 18, 2022 4:49:33 PM FightNeutrel1 getStunAbility1
+INFO: Cooldown ability 1 is 4
+мая 18, 2022 4:49:33 PM FightNeutrel2 fight
+INFO: Meowth attacks and Neutrel2 attacks!
+мая 18, 2022 4:49:33 PM FightNeutrel1 checkCooldown
+INFO: Pokemon{name='Meowth', HP=46, normalAttack=11, specialAttack=0, normalDefense=7, specialDefense=8, ability1={damage=5, stun=false, dodge=true, coolDown=4}, ability2={damage=1, stun=false, dodge=true, coolDown=3}}
+мая 18, 2022 4:49:33 PM FightNeutrel1 checkCooldown
+INFO: Pokemon{name='Neutrel2', HP=5, normalAttack=4, specialAttack=0, normalDefense=1, specialDefense=1}
+мая 18, 2022 4:49:33 PM FightNeutrel1 checkCooldown
+INFO: Cooldown ability 1 is 3
+мая 18, 2022 4:49:33 PM FightNeutrel2 fight
+INFO: Meowth attacks and Neutrel2 attacks!
+мая 18, 2022 4:49:33 PM FightNeutrel1 checkCooldown
+INFO: Pokemon{name='Meowth', HP=46, normalAttack=11, specialAttack=0, normalDefense=7, specialDefense=8, ability1={damage=5, stun=false, dodge=true, coolDown=4}, ability2={damage=1, stun=false, dodge=true, coolDown=3}}
+мая 18, 2022 4:49:33 PM FightNeutrel1 checkCooldown
+INFO: Pokemon{name='Neutrel2', HP=-5, normalAttack=4, specialAttack=0, normalDefense=1, specialDefense=1}
+мая 18, 2022 4:49:33 PM FightNeutrel1 checkCooldown
+INFO: Cooldown ability 1 is 2
+мая 18, 2022 4:49:33 PM FightNeutrel2 fight
+INFO: Meowth wins!
+мая 18, 2022 4:49:33 PM Arena startDuel
+INFO: The second coach wins!
+мая 18, 2022 4:49:33 PM Arena startDuel
+INFO: The pokemon is now boosted
+мая 18, 2022 4:49:33 PM Arena startDuel
+INFO: Pokemon{name='Meowth', HP=47, normalAttack=12, specialAttack=0, normalDefense=8, specialDefense=9, ability1={damage=5, stun=false, dodge=true, coolDown=4}, ability2={damage=1, stun=false, dodge=true, coolDown=3}}
+мая 18, 2022 4:49:33 PM FightNeutrel2 fight
+INFO: This duel is between the following two pokemons!
+мая 18, 2022 4:49:33 PM FightNeutrel2 fight
+INFO: Pokemon{name='Vulpix', HP=50, normalAttack=15, specialAttack=0, normalDefense=7, specialDefense=8, ability1={damage=8, stun=true, dodge=false, coolDown=6}, ability2={damage=2, stun=false, dodge=true, coolDown=7}}
+мая 18, 2022 4:49:33 PM FightNeutrel2 fight
+INFO: Pokemon{name='Neutrel2', HP=20, normalAttack=4, specialAttack=0, normalDefense=1, specialDefense=1}
+мая 18, 2022 4:49:33 PM FightNeutrel1 getStunAbility1
+INFO: Pokemon{name='Vulpix', HP=50, normalAttack=15, specialAttack=0, normalDefense=7, specialDefense=8, ability1={damage=8, stun=true, dodge=false, coolDown=6}, ability2={damage=2, stun=false, dodge=true, coolDown=7}}
+мая 18, 2022 4:49:33 PM FightNeutrel1 getStunAbility1
+INFO: Pokemon{name='Neutrel2', HP=12, normalAttack=4, specialAttack=0, normalDefense=1, specialDefense=1}
+мая 18, 2022 4:49:33 PM FightNeutrel1 getStunAbility1
+INFO: Cooldown ability 1 is 6
+мая 18, 2022 4:49:33 PM FightNeutrel2 fight
+INFO: Vulpix attacks and Neutrel2 is stuned!
+мая 18, 2022 4:49:33 PM FightNeutrel1 checkCooldown
+INFO: Pokemon{name='Vulpix', HP=50, normalAttack=15, specialAttack=0, normalDefense=7, specialDefense=8, ability1={damage=8, stun=true, dodge=false, coolDown=6}, ability2={damage=2, stun=false, dodge=true, coolDown=7}}
+мая 18, 2022 4:49:33 PM FightNeutrel1 checkCooldown
+INFO: Pokemon{name='Neutrel2', HP=-2, normalAttack=4, specialAttack=0, normalDefense=1, specialDefense=1}
+мая 18, 2022 4:49:33 PM FightNeutrel1 checkCooldown
+INFO: Cooldown ability 1 is 5
+мая 18, 2022 4:49:33 PM FightNeutrel2 fight
+INFO: Vulpix wins!
+мая 18, 2022 4:49:33 PM Arena startDuel
+INFO: The first coach wins!
+мая 18, 2022 4:49:33 PM Arena startDuel
+INFO: The pokemon is now boosted
+мая 18, 2022 4:49:33 PM Arena startDuel
+INFO: Pokemon{name='Vulpix', HP=51, normalAttack=16, specialAttack=0, normalDefense=8, specialDefense=9, ability1={damage=8, stun=true, dodge=false, coolDown=6}, ability2={damage=2, stun=false, dodge=true, coolDown=7}}
+мая 18, 2022 4:49:33 PM FightNeutrel2 fight
+INFO: This duel is between the following two pokemons!
+мая 18, 2022 4:49:33 PM FightNeutrel2 fight
+INFO: Pokemon{name='Meowth', HP=47, normalAttack=12, specialAttack=0, normalDefense=8, specialDefense=9, ability1={damage=5, stun=false, dodge=true, coolDown=4}, ability2={damage=1, stun=false, dodge=true, coolDown=3}}
+мая 18, 2022 4:49:33 PM FightNeutrel2 fight
+INFO: Pokemon{name='Neutrel2', HP=20, normalAttack=4, specialAttack=0, normalDefense=1, specialDefense=1}
+мая 18, 2022 4:49:33 PM FightNeutrel1 getStunAbility1
+INFO: Pokemon{name='Meowth', HP=47, normalAttack=12, specialAttack=0, normalDefense=8, specialDefense=9, ability1={damage=5, stun=false, dodge=true, coolDown=4}, ability2={damage=1, stun=false, dodge=true, coolDown=3}}
+мая 18, 2022 4:49:33 PM FightNeutrel1 getStunAbility1
+INFO: Pokemon{name='Neutrel2', HP=15, normalAttack=4, specialAttack=0, normalDefense=1, specialDefense=1}
+мая 18, 2022 4:49:33 PM FightNeutrel1 getStunAbility1
+INFO: Cooldown ability 1 is 4
+мая 18, 2022 4:49:33 PM FightNeutrel2 fight
+INFO: Meowth attacks and Neutrel2 attacks!
+мая 18, 2022 4:49:33 PM FightNeutrel1 checkCooldown
+INFO: Pokemon{name='Meowth', HP=47, normalAttack=12, specialAttack=0, normalDefense=8, specialDefense=9, ability1={damage=5, stun=false, dodge=true, coolDown=4}, ability2={damage=1, stun=false, dodge=true, coolDown=3}}
+мая 18, 2022 4:49:33 PM FightNeutrel1 checkCooldown
+INFO: Pokemon{name='Neutrel2', HP=4, normalAttack=4, specialAttack=0, normalDefense=1, specialDefense=1}
+мая 18, 2022 4:49:33 PM FightNeutrel1 checkCooldown
+INFO: Cooldown ability 1 is 3
+мая 18, 2022 4:49:33 PM FightNeutrel2 fight
+INFO: Meowth attacks and Neutrel2 attacks!
+мая 18, 2022 4:49:33 PM FightNeutrel1 checkCooldown
+INFO: Pokemon{name='Meowth', HP=47, normalAttack=12, specialAttack=0, normalDefense=8, specialDefense=9, ability1={damage=5, stun=false, dodge=true, coolDown=4}, ability2={damage=1, stun=false, dodge=true, coolDown=3}}
+мая 18, 2022 4:49:33 PM FightNeutrel1 checkCooldown
+INFO: Pokemon{name='Neutrel2', HP=-7, normalAttack=4, specialAttack=0, normalDefense=1, specialDefense=1}
+мая 18, 2022 4:49:33 PM FightNeutrel1 checkCooldown
+INFO: Cooldown ability 1 is 2
+мая 18, 2022 4:49:33 PM FightNeutrel2 fight
+INFO: Meowth wins!
+мая 18, 2022 4:49:33 PM Arena startDuel
+INFO: The second coach wins!
+мая 18, 2022 4:49:33 PM Arena startDuel
+INFO: The pokemon is now boosted
+мая 18, 2022 4:49:33 PM Arena startDuel
+INFO: Pokemon{name='Meowth', HP=48, normalAttack=13, specialAttack=0, normalDefense=9, specialDefense=10, ability1={damage=5, stun=false, dodge=true, coolDown=4}, ability2={damage=1, stun=false, dodge=true, coolDown=3}}
+мая 18, 2022 4:49:33 PM FightNeutrel2 fight
+INFO: This duel is between the following two pokemons!
+мая 18, 2022 4:49:33 PM FightNeutrel2 fight
+INFO: Pokemon{name='Vulpix', HP=51, normalAttack=16, specialAttack=0, normalDefense=8, specialDefense=9, ability1={damage=8, stun=true, dodge=false, coolDown=6}, ability2={damage=2, stun=false, dodge=true, coolDown=7}}
+мая 18, 2022 4:49:33 PM FightNeutrel2 fight
+INFO: Pokemon{name='Neutrel2', HP=20, normalAttack=4, specialAttack=0, normalDefense=1, specialDefense=1}
+мая 18, 2022 4:49:33 PM FightNeutrel1 getStunAbility1
+INFO: Pokemon{name='Vulpix', HP=51, normalAttack=16, specialAttack=0, normalDefense=8, specialDefense=9, ability1={damage=8, stun=true, dodge=false, coolDown=6}, ability2={damage=2, stun=false, dodge=true, coolDown=7}}
+мая 18, 2022 4:49:33 PM FightNeutrel1 getStunAbility1
+INFO: Pokemon{name='Neutrel2', HP=12, normalAttack=4, specialAttack=0, normalDefense=1, specialDefense=1}
+мая 18, 2022 4:49:33 PM FightNeutrel1 getStunAbility1
+INFO: Cooldown ability 1 is 6
+мая 18, 2022 4:49:33 PM FightNeutrel2 fight
+INFO: Vulpix attacks and Neutrel2 is stuned!
+мая 18, 2022 4:49:33 PM FightNeutrel1 checkCooldown
+INFO: Pokemon{name='Vulpix', HP=51, normalAttack=16, specialAttack=0, normalDefense=8, specialDefense=9, ability1={damage=8, stun=true, dodge=false, coolDown=6}, ability2={damage=2, stun=false, dodge=true, coolDown=7}}
+мая 18, 2022 4:49:33 PM FightNeutrel1 checkCooldown
+INFO: Pokemon{name='Neutrel2', HP=-3, normalAttack=4, specialAttack=0, normalDefense=1, specialDefense=1}
+мая 18, 2022 4:49:33 PM FightNeutrel1 checkCooldown
+INFO: Cooldown ability 1 is 5
+мая 18, 2022 4:49:33 PM FightNeutrel2 fight
+INFO: Vulpix wins!
+мая 18, 2022 4:49:33 PM Arena startDuel
+INFO: The first coach wins!
+мая 18, 2022 4:49:33 PM Arena startDuel
+INFO: The pokemon is now boosted
+мая 18, 2022 4:49:33 PM Arena startDuel
+INFO: Pokemon{name='Vulpix', HP=52, normalAttack=17, specialAttack=0, normalDefense=9, specialDefense=10, ability1={damage=8, stun=true, dodge=false, coolDown=6}, ability2={damage=2, stun=false, dodge=true, coolDown=7}}
+мая 18, 2022 4:49:33 PM FightNeutrel2 fight
+INFO: This duel is between the following two pokemons!
+мая 18, 2022 4:49:33 PM FightNeutrel2 fight
+INFO: Pokemon{name='Meowth', HP=48, normalAttack=13, specialAttack=0, normalDefense=9, specialDefense=10, ability1={damage=5, stun=false, dodge=true, coolDown=4}, ability2={damage=1, stun=false, dodge=true, coolDown=3}}
+мая 18, 2022 4:49:33 PM FightNeutrel2 fight
+INFO: Pokemon{name='Neutrel2', HP=20, normalAttack=4, specialAttack=0, normalDefense=1, specialDefense=1}
+мая 18, 2022 4:49:33 PM FightNeutrel2 fight
+INFO: Meowth attacks and Neutrel2 attacks!
+мая 18, 2022 4:49:33 PM FightNeutrel1 checkCooldown
+INFO: Pokemon{name='Meowth', HP=48, normalAttack=13, specialAttack=0, normalDefense=9, specialDefense=10, ability1={damage=5, stun=false, dodge=true, coolDown=4}, ability2={damage=1, stun=false, dodge=true, coolDown=3}}
+мая 18, 2022 4:49:33 PM FightNeutrel1 checkCooldown
+INFO: Pokemon{name='Neutrel2', HP=8, normalAttack=4, specialAttack=0, normalDefense=1, specialDefense=1}
+мая 18, 2022 4:49:33 PM FightNeutrel2 fight
+INFO: Meowth attacks and Neutrel2 attacks!
+мая 18, 2022 4:49:33 PM FightNeutrel1 checkCooldown
+INFO: Pokemon{name='Meowth', HP=48, normalAttack=13, specialAttack=0, normalDefense=9, specialDefense=10, ability1={damage=5, stun=false, dodge=true, coolDown=4}, ability2={damage=1, stun=false, dodge=true, coolDown=3}}
+мая 18, 2022 4:49:33 PM FightNeutrel1 checkCooldown
+INFO: Pokemon{name='Neutrel2', HP=-4, normalAttack=4, specialAttack=0, normalDefense=1, specialDefense=1}
+мая 18, 2022 4:49:33 PM FightNeutrel2 fight
+INFO: Meowth wins!
+мая 18, 2022 4:49:33 PM Arena startDuel
+INFO: The second coach wins!
+мая 18, 2022 4:49:33 PM Arena startDuel
+INFO: The pokemon is now boosted
+мая 18, 2022 4:49:33 PM Arena startDuel
+INFO: Pokemon{name='Meowth', HP=49, normalAttack=14, specialAttack=0, normalDefense=10, specialDefense=11, ability1={damage=5, stun=false, dodge=true, coolDown=4}, ability2={damage=1, stun=false, dodge=true, coolDown=3}}
+мая 18, 2022 4:49:33 PM CoachesBattle battle
+INFO: This duel is between the following two pokemons!
+мая 18, 2022 4:49:33 PM CoachesBattle battle
+INFO: Pokemon{name='Vulpix', HP=52, normalAttack=17, specialAttack=0, normalDefense=9, specialDefense=10, ability1={damage=8, stun=true, dodge=false, coolDown=6}, ability2={damage=2, stun=false, dodge=true, coolDown=7}}
+мая 18, 2022 4:49:33 PM CoachesBattle battle
+INFO: Pokemon{name='Meowth', HP=49, normalAttack=14, specialAttack=0, normalDefense=10, specialDefense=11, ability1={damage=5, stun=false, dodge=true, coolDown=4}, ability2={damage=1, stun=false, dodge=true, coolDown=3}}
+мая 18, 2022 4:49:33 PM HelpBattle2 pokemonsAttack
+INFO: Pokemon Vulpix attacks!
+мая 18, 2022 4:49:33 PM HelpBattle2 pokemonsAttack
+INFO: Pokemon Meowth attacks!
+мая 18, 2022 4:49:33 PM HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Vulpix is 0
+мая 18, 2022 4:49:33 PM HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Meowth is 0
+мая 18, 2022 4:49:33 PM CoachesBattle battle
+INFO: Vulpix has 47 HP!
+мая 18, 2022 4:49:33 PM CoachesBattle battle
+INFO: Meowth has 42 HP!
+мая 18, 2022 4:49:33 PM HelpBattle2 pokemonsAttack
+INFO: Pokemon Vulpix attacks!
+мая 18, 2022 4:49:33 PM HelpBattle2 pokemonsAttack
+INFO: Pokemon Meowth attacks!
+мая 18, 2022 4:49:33 PM HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Vulpix is 0
+мая 18, 2022 4:49:33 PM HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Meowth is 0
+мая 18, 2022 4:49:33 PM CoachesBattle battle
+INFO: Vulpix has 42 HP!
+мая 18, 2022 4:49:33 PM CoachesBattle battle
+INFO: Meowth has 35 HP!
+мая 18, 2022 4:49:33 PM HelpBattle2 pokemonsAttack
+INFO: Pokemon Vulpix attacks!
+мая 18, 2022 4:49:33 PM HelpBattle2 pokemonsAttack
+INFO: Pokemon Meowth attacks!
+мая 18, 2022 4:49:33 PM HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Vulpix is 0
+мая 18, 2022 4:49:33 PM HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Meowth is 0
+мая 18, 2022 4:49:33 PM CoachesBattle battle
+INFO: Vulpix has 37 HP!
+мая 18, 2022 4:49:33 PM CoachesBattle battle
+INFO: Meowth has 28 HP!
+мая 18, 2022 4:49:33 PM HelpBattle2 pokemonsAttack
+INFO: Pokemon Vulpix attacks!
+мая 18, 2022 4:49:33 PM HelpBattle2 pokemonsAttack
+INFO: Pokemon Meowth attacks!
+мая 18, 2022 4:49:33 PM HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Vulpix is 0
+мая 18, 2022 4:49:33 PM HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Meowth is 0
+мая 18, 2022 4:49:33 PM CoachesBattle battle
+INFO: Vulpix has 32 HP!
+мая 18, 2022 4:49:33 PM CoachesBattle battle
+INFO: Meowth has 21 HP!
+мая 18, 2022 4:49:33 PM HelpBattle2 pokemonsAttack
+INFO: Pokemon Vulpix attacks!
+мая 18, 2022 4:49:33 PM HelpBattle2 pokemonsAttack
+INFO: Pokemon Meowth attacks!
+мая 18, 2022 4:49:33 PM HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Vulpix is 0
+мая 18, 2022 4:49:33 PM HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Meowth is 0
+мая 18, 2022 4:49:33 PM CoachesBattle battle
+INFO: Vulpix has 27 HP!
+мая 18, 2022 4:49:33 PM CoachesBattle battle
+INFO: Meowth has 14 HP!
+мая 18, 2022 4:49:33 PM HelpBattle2 pokemonsAttack
+INFO: Pokemon Vulpix attacks!
+мая 18, 2022 4:49:33 PM HelpBattle2 pokemonsAttack
+INFO: Pokemon Meowth attacks!
+мая 18, 2022 4:49:33 PM HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Vulpix is 0
+мая 18, 2022 4:49:33 PM HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Meowth is 0
+мая 18, 2022 4:49:33 PM CoachesBattle battle
+INFO: Vulpix has 22 HP!
+мая 18, 2022 4:49:33 PM CoachesBattle battle
+INFO: Meowth has 7 HP!
+мая 18, 2022 4:49:33 PM HelpBattle2 pokemonsAttack
+INFO: Pokemon Vulpix attacks!
+мая 18, 2022 4:49:33 PM HelpBattle2 pokemonsAttack
+INFO: Pokemon Meowth attacks!
+мая 18, 2022 4:49:33 PM HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Vulpix is 0
+мая 18, 2022 4:49:33 PM HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Meowth is 0
+мая 18, 2022 4:49:33 PM CoachesBattle battle
+INFO: Vulpix has 17 HP!
+мая 18, 2022 4:49:33 PM CoachesBattle battle
+INFO: Meowth has 0 HP!
+мая 18, 2022 4:49:33 PM PokemonHelperClassForBattle checkWinner
+INFO: Pokemon Vulpix wins!
+мая 18, 2022 4:49:33 PM PokemonHelperClassForBattle checkWinner
+INFO: The first coach wins!
+мая 18, 2022 4:49:33 PM PokemonHelperClassForBattle checkWinner
+INFO: The pokemon is now boosted
+мая 18, 2022 4:49:33 PM PokemonHelperClassForBattle checkWinner
+INFO: Pokemon{name='Vulpix', HP=53, normalAttack=18, specialAttack=0, normalDefense=10, specialDefense=11, ability1={damage=8, stun=true, dodge=false, coolDown=6}, ability2={damage=2, stun=false, dodge=true, coolDown=7}}
+мая 18, 2022 4:49:33 PM ReadFromFile read
+INFO: Pokemon{name='Vulpix', HP=53, normalAttack=18, specialAttack=0, normalDefense=10, specialDefense=11, ability1={damage=8, stun=true, dodge=false, coolDown=6}, ability2={damage=2, stun=false, dodge=true, coolDown=7}}
+мая 18, 2022 4:49:33 PM ReadFromFile read
+INFO: Pokemon{name='Meowth', HP=49, normalAttack=14, specialAttack=0, normalDefense=10, specialDefense=11, ability1={damage=5, stun=false, dodge=true, coolDown=4}, ability2={damage=1, stun=false, dodge=true, coolDown=3}}
+мая 18, 2022 4:49:33 PM ReadFromFile read
+INFO: THIRD ADVENTURE BEGINS!
+мая 18, 2022 4:49:33 PM CoachesBattle battle
+INFO: This duel is between the following two pokemons!
+мая 18, 2022 4:49:33 PM CoachesBattle battle
+INFO: Pokemon{name='Psyduck', HP=45, normalAttack=5, specialAttack=0, normalDefense=5, specialDefense=8, ability1={damage=2, stun=false, dodge=false, coolDown=4}, ability2={damage=2, stun=true, dodge=false, coolDown=5}}
+мая 18, 2022 4:49:33 PM CoachesBattle battle
+INFO: Pokemon{name='Squirtle', HP=70, normalAttack=0, specialAttack=6, normalDefense=7, specialDefense=7, ability1={damage=4, stun=false, dodge=false, coolDown=3}, ability2={damage=2, stun=true, dodge=false, coolDown=2}}
+мая 18, 2022 4:49:33 PM HelpBattle2 pokemonsAttack
+INFO: Pokemon Psyduck attacks!
+мая 18, 2022 4:49:33 PM HelpBattle2 pokemonsAttack
+INFO: Pokemon Squirtle attacks!
+мая 18, 2022 4:49:33 PM HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Psyduck is 0
+мая 18, 2022 4:49:33 PM HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Squirtle is 0
+мая 18, 2022 4:49:33 PM CoachesBattle battle
+INFO: Psyduck has 45 HP!
+мая 18, 2022 4:49:33 PM CoachesBattle battle
+INFO: Squirtle has 70 HP!
+мая 18, 2022 4:49:33 PM HelpBattle2 pokemonsAttack
+INFO: Pokemon Psyduck attacks!
+мая 18, 2022 4:49:33 PM HelpBattle2 pokemonsAttack
+INFO: Pokemon Squirtle attacks!
+мая 18, 2022 4:49:33 PM HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Psyduck is 0
+мая 18, 2022 4:49:33 PM HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Squirtle is 0
+мая 18, 2022 4:49:33 PM CoachesBattle battle
+INFO: Psyduck has 45 HP!
+мая 18, 2022 4:49:33 PM CoachesBattle battle
+INFO: Squirtle has 70 HP!
+мая 18, 2022 4:49:33 PM HelpBattle2 pokemonsAttack
+INFO: Pokemon Psyduck attacks!
+мая 18, 2022 4:49:33 PM HelpBattle2 pokemonsAttack
+INFO: Pokemon Squirtle attacks!
+мая 18, 2022 4:49:33 PM HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Psyduck is 0
+мая 18, 2022 4:49:33 PM HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Squirtle is 0
+мая 18, 2022 4:49:33 PM CoachesBattle battle
+INFO: Psyduck has 45 HP!
+мая 18, 2022 4:49:33 PM CoachesBattle battle
+INFO: Squirtle has 70 HP!
+мая 18, 2022 4:49:33 PM HelpBattle2 pokemonsAttack
+INFO: Pokemon Psyduck attacks!
+мая 18, 2022 4:49:33 PM HelpBattle2 pokemonsAttack
+INFO: Pokemon Squirtle attacks!
+мая 18, 2022 4:49:33 PM HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Psyduck is 0
+мая 18, 2022 4:49:33 PM HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Squirtle is 0
+мая 18, 2022 4:49:33 PM CoachesBattle battle
+INFO: Psyduck has 44 HP!
+мая 18, 2022 4:49:33 PM CoachesBattle battle
+INFO: Squirtle has 69 HP!
+мая 18, 2022 4:49:33 PM HelpBattle2 pokemonsAttack
+INFO: Pokemon Psyduck attacks!
+мая 18, 2022 4:49:33 PM HelpBattle2 pokemonsAttack
+INFO: Pokemon Squirtle attacks!
+мая 18, 2022 4:49:33 PM HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Psyduck is 0
+мая 18, 2022 4:49:33 PM HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Squirtle is 0
+мая 18, 2022 4:49:33 PM CoachesBattle battle
+INFO: Psyduck has 43 HP!
+мая 18, 2022 4:49:33 PM CoachesBattle battle
+INFO: Squirtle has 68 HP!
+мая 18, 2022 4:49:33 PM HelpBattle2 pokemonsAttack
+INFO: Pokemon Psyduck attacks!
+мая 18, 2022 4:49:33 PM HelpBattle2 pokemonsAttack
+INFO: Pokemon Squirtle attacks!
+мая 18, 2022 4:49:33 PM HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Psyduck is 0
+мая 18, 2022 4:49:33 PM HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Squirtle is 0
+мая 18, 2022 4:49:33 PM CoachesBattle battle
+INFO: Psyduck has 42 HP!
+мая 18, 2022 4:49:33 PM CoachesBattle battle
+INFO: Squirtle has 67 HP!
+мая 18, 2022 4:49:33 PM HelpBattle2 pokemonsAttack
+INFO: Pokemon Psyduck attacks!
+мая 18, 2022 4:49:33 PM HelpBattle2 pokemonsAttack
+INFO: Pokemon Squirtle attacks!
+мая 18, 2022 4:49:33 PM HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Psyduck is 0
+мая 18, 2022 4:49:33 PM HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Squirtle is 0
+мая 18, 2022 4:49:33 PM CoachesBattle battle
+INFO: Psyduck has 41 HP!
+мая 18, 2022 4:49:33 PM CoachesBattle battle
+INFO: Squirtle has 66 HP!
+мая 18, 2022 4:49:33 PM HelpBattle2 pokemonsAttack
+INFO: Pokemon Psyduck attacks!
+мая 18, 2022 4:49:33 PM HelpBattle2 pokemonsAttack
+INFO: Pokemon Squirtle attacks!
+мая 18, 2022 4:49:33 PM HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Psyduck is 0
+мая 18, 2022 4:49:33 PM HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Squirtle is 0
+мая 18, 2022 4:49:33 PM CoachesBattle battle
+INFO: Psyduck has 40 HP!
+мая 18, 2022 4:49:33 PM CoachesBattle battle
+INFO: Squirtle has 65 HP!
+мая 18, 2022 4:49:33 PM HelpBattle2 pokemonsAttack
+INFO: Pokemon Psyduck attacks!
+мая 18, 2022 4:49:33 PM HelpBattle2 pokemonsAttack
+INFO: Pokemon Squirtle attacks!
+мая 18, 2022 4:49:33 PM HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Psyduck is 0
+мая 18, 2022 4:49:33 PM HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Squirtle is 0
+мая 18, 2022 4:49:33 PM CoachesBattle battle
+INFO: Psyduck has 39 HP!
+мая 18, 2022 4:49:33 PM CoachesBattle battle
+INFO: Squirtle has 64 HP!
+мая 18, 2022 4:49:33 PM HelpBattle2 pokemonsAttack
+INFO: Pokemon Psyduck attacks!
+мая 18, 2022 4:49:33 PM HelpBattle2 pokemonsAttack
+INFO: Pokemon Squirtle attacks!
+мая 18, 2022 4:49:33 PM HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Psyduck is 0
+мая 18, 2022 4:49:33 PM HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Squirtle is 0
+мая 18, 2022 4:49:33 PM CoachesBattle battle
+INFO: Psyduck has 38 HP!
+мая 18, 2022 4:49:33 PM CoachesBattle battle
+INFO: Squirtle has 63 HP!
+мая 18, 2022 4:49:33 PM HelpBattle2 pokemonsAttack
+INFO: Pokemon Psyduck attacks!
+мая 18, 2022 4:49:33 PM HelpBattle2 pokemonsAttack
+INFO: Pokemon Squirtle attacks!
+мая 18, 2022 4:49:33 PM HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Psyduck is 0
+мая 18, 2022 4:49:33 PM HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Squirtle is 0
+мая 18, 2022 4:49:33 PM CoachesBattle battle
+INFO: Psyduck has 37 HP!
+мая 18, 2022 4:49:33 PM CoachesBattle battle
+INFO: Squirtle has 62 HP!
+мая 18, 2022 4:49:33 PM HelpBattle2 pokemonsAttack
+INFO: Pokemon Psyduck attacks!
+мая 18, 2022 4:49:33 PM HelpBattle2 pokemonsAttack
+INFO: Pokemon Squirtle attacks!
+мая 18, 2022 4:49:33 PM HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Psyduck is 0
+мая 18, 2022 4:49:33 PM HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Squirtle is 0
+мая 18, 2022 4:49:33 PM CoachesBattle battle
+INFO: Psyduck has 36 HP!
+мая 18, 2022 4:49:33 PM CoachesBattle battle
+INFO: Squirtle has 61 HP!
+мая 18, 2022 4:49:33 PM HelpBattle2 pokemonsAttack
+INFO: Pokemon Psyduck attacks!
+мая 18, 2022 4:49:33 PM HelpBattle2 pokemonsAttack
+INFO: Pokemon Squirtle attacks!
+мая 18, 2022 4:49:33 PM HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Psyduck is 0
+мая 18, 2022 4:49:33 PM HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Squirtle is 0
+мая 18, 2022 4:49:33 PM CoachesBattle battle
+INFO: Psyduck has 35 HP!
+мая 18, 2022 4:49:33 PM CoachesBattle battle
+INFO: Squirtle has 60 HP!
+мая 18, 2022 4:49:33 PM HelpBattle2 pokemonsAttack
+INFO: Pokemon Psyduck attacks!
+мая 18, 2022 4:49:33 PM HelpBattle2 pokemonsAttack
+INFO: Pokemon Squirtle attacks!
+мая 18, 2022 4:49:33 PM HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Psyduck is 0
+мая 18, 2022 4:49:33 PM HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Squirtle is 0
+мая 18, 2022 4:49:33 PM CoachesBattle battle
+INFO: Psyduck has 34 HP!
+мая 18, 2022 4:49:33 PM CoachesBattle battle
+INFO: Squirtle has 59 HP!
+мая 18, 2022 4:49:33 PM HelpBattle2 pokemonsAttack
+INFO: Pokemon Psyduck attacks!
+мая 18, 2022 4:49:33 PM HelpBattle2 pokemonsAttack
+INFO: Pokemon Squirtle attacks!
+мая 18, 2022 4:49:33 PM HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Psyduck is 0
+мая 18, 2022 4:49:33 PM HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Squirtle is 0
+мая 18, 2022 4:49:33 PM CoachesBattle battle
+INFO: Psyduck has 33 HP!
+мая 18, 2022 4:49:33 PM CoachesBattle battle
+INFO: Squirtle has 58 HP!
+мая 18, 2022 4:49:33 PM HelpBattle2 pokemonsAttack
+INFO: Pokemon Psyduck attacks!
+мая 18, 2022 4:49:33 PM HelpBattle2 pokemonsAttack
+INFO: Pokemon Squirtle attacks!
+мая 18, 2022 4:49:33 PM HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Psyduck is 0
+мая 18, 2022 4:49:33 PM HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Squirtle is 0
+мая 18, 2022 4:49:33 PM CoachesBattle battle
+INFO: Psyduck has 32 HP!
+мая 18, 2022 4:49:33 PM CoachesBattle battle
+INFO: Squirtle has 57 HP!
+мая 18, 2022 4:49:33 PM HelpBattle2 pokemonsAttack
+INFO: Pokemon Psyduck attacks!
+мая 18, 2022 4:49:33 PM HelpBattle2 pokemonsAttack
+INFO: Pokemon Squirtle attacks!
+мая 18, 2022 4:49:33 PM HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Psyduck is 0
+мая 18, 2022 4:49:33 PM HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Squirtle is 0
+мая 18, 2022 4:49:33 PM CoachesBattle battle
+INFO: Psyduck has 31 HP!
+мая 18, 2022 4:49:33 PM CoachesBattle battle
+INFO: Squirtle has 56 HP!
+мая 18, 2022 4:49:33 PM HelpBattle2 pokemonsAttack
+INFO: Pokemon Psyduck attacks!
+мая 18, 2022 4:49:33 PM HelpBattle2 pokemonsAttack
+INFO: Pokemon Squirtle attacks!
+мая 18, 2022 4:49:33 PM HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Psyduck is 0
+мая 18, 2022 4:49:33 PM HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Squirtle is 0
+мая 18, 2022 4:49:33 PM CoachesBattle battle
+INFO: Psyduck has 30 HP!
+мая 18, 2022 4:49:33 PM CoachesBattle battle
+INFO: Squirtle has 55 HP!
+мая 18, 2022 4:49:33 PM HelpBattle2 pokemonsAttack
+INFO: Pokemon Psyduck attacks!
+мая 18, 2022 4:49:33 PM HelpBattle2 pokemonsAttack
+INFO: Pokemon Squirtle attacks!
+мая 18, 2022 4:49:33 PM HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Psyduck is 0
+мая 18, 2022 4:49:33 PM HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Squirtle is 0
+мая 18, 2022 4:49:33 PM CoachesBattle battle
+INFO: Psyduck has 29 HP!
+мая 18, 2022 4:49:33 PM CoachesBattle battle
+INFO: Squirtle has 54 HP!
+мая 18, 2022 4:49:33 PM HelpBattle2 pokemonsAttack
+INFO: Pokemon Psyduck attacks!
+мая 18, 2022 4:49:33 PM HelpBattle2 pokemonsAttack
+INFO: Pokemon Squirtle attacks!
+мая 18, 2022 4:49:33 PM HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Psyduck is 0
+мая 18, 2022 4:49:33 PM HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Squirtle is 0
+мая 18, 2022 4:49:33 PM CoachesBattle battle
+INFO: Psyduck has 28 HP!
+мая 18, 2022 4:49:33 PM CoachesBattle battle
+INFO: Squirtle has 53 HP!
+мая 18, 2022 4:49:33 PM HelpBattle2 pokemonsAttack
+INFO: Pokemon Psyduck attacks!
+мая 18, 2022 4:49:33 PM HelpBattle2 pokemonsAttack
+INFO: Pokemon Squirtle attacks!
+мая 18, 2022 4:49:33 PM HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Psyduck is 0
+мая 18, 2022 4:49:33 PM HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Squirtle is 0
+мая 18, 2022 4:49:33 PM CoachesBattle battle
+INFO: Psyduck has 27 HP!
+мая 18, 2022 4:49:33 PM CoachesBattle battle
+INFO: Squirtle has 52 HP!
+мая 18, 2022 4:49:33 PM HelpBattle2 pokemonsAttack
+INFO: Pokemon Psyduck attacks!
+мая 18, 2022 4:49:33 PM HelpBattle2 pokemonsAttack
+INFO: Pokemon Squirtle attacks!
+мая 18, 2022 4:49:33 PM HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Psyduck is 0
+мая 18, 2022 4:49:33 PM HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Squirtle is 0
+мая 18, 2022 4:49:33 PM CoachesBattle battle
+INFO: Psyduck has 26 HP!
+мая 18, 2022 4:49:33 PM CoachesBattle battle
+INFO: Squirtle has 51 HP!
+мая 18, 2022 4:49:33 PM HelpBattle2 pokemonsAttack
+INFO: Pokemon Psyduck attacks!
+мая 18, 2022 4:49:33 PM HelpBattle2 pokemonsAttack
+INFO: Pokemon Squirtle attacks!
+мая 18, 2022 4:49:33 PM HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Psyduck is 0
+мая 18, 2022 4:49:33 PM HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Squirtle is 0
+мая 18, 2022 4:49:33 PM CoachesBattle battle
+INFO: Psyduck has 25 HP!
+мая 18, 2022 4:49:33 PM CoachesBattle battle
+INFO: Squirtle has 50 HP!
+мая 18, 2022 4:49:33 PM HelpBattle2 pokemonsAttack
+INFO: Pokemon Psyduck attacks!
+мая 18, 2022 4:49:33 PM HelpBattle2 pokemonsAttack
+INFO: Pokemon Squirtle attacks!
+мая 18, 2022 4:49:33 PM HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Psyduck is 0
+мая 18, 2022 4:49:33 PM HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Squirtle is 0
+мая 18, 2022 4:49:33 PM CoachesBattle battle
+INFO: Psyduck has 24 HP!
+мая 18, 2022 4:49:33 PM CoachesBattle battle
+INFO: Squirtle has 49 HP!
+мая 18, 2022 4:49:33 PM HelpBattle2 pokemonsAttack
+INFO: Pokemon Psyduck attacks!
+мая 18, 2022 4:49:33 PM HelpBattle2 pokemonsAttack
+INFO: Pokemon Squirtle attacks!
+мая 18, 2022 4:49:33 PM HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Psyduck is 0
+мая 18, 2022 4:49:33 PM HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Squirtle is 0
+мая 18, 2022 4:49:33 PM CoachesBattle battle
+INFO: Psyduck has 23 HP!
+мая 18, 2022 4:49:33 PM CoachesBattle battle
+INFO: Squirtle has 48 HP!
+мая 18, 2022 4:49:33 PM HelpBattle2 pokemonsAttack
+INFO: Pokemon Psyduck attacks!
+мая 18, 2022 4:49:33 PM HelpBattle2 pokemonsAttack
+INFO: Pokemon Squirtle attacks!
+мая 18, 2022 4:49:33 PM HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Psyduck is 0
+мая 18, 2022 4:49:33 PM HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Squirtle is 0
+мая 18, 2022 4:49:33 PM CoachesBattle battle
+INFO: Psyduck has 22 HP!
+мая 18, 2022 4:49:33 PM CoachesBattle battle
+INFO: Squirtle has 47 HP!
+мая 18, 2022 4:49:33 PM HelpBattle2 pokemonsAttack
+INFO: Pokemon Psyduck attacks!
+мая 18, 2022 4:49:33 PM HelpBattle2 pokemonsAttack
+INFO: Pokemon Squirtle attacks!
+мая 18, 2022 4:49:33 PM HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Psyduck is 0
+мая 18, 2022 4:49:33 PM HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Squirtle is 0
+мая 18, 2022 4:49:33 PM CoachesBattle battle
+INFO: Psyduck has 21 HP!
+мая 18, 2022 4:49:33 PM CoachesBattle battle
+INFO: Squirtle has 46 HP!
+мая 18, 2022 4:49:33 PM HelpBattle2 pokemonsAttack
+INFO: Pokemon Psyduck attacks!
+мая 18, 2022 4:49:33 PM HelpBattle2 pokemonsAttack
+INFO: Pokemon Squirtle attacks!
+мая 18, 2022 4:49:33 PM HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Psyduck is 0
+мая 18, 2022 4:49:33 PM HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Squirtle is 0
+мая 18, 2022 4:49:33 PM CoachesBattle battle
+INFO: Psyduck has 20 HP!
+мая 18, 2022 4:49:33 PM CoachesBattle battle
+INFO: Squirtle has 45 HP!
+мая 18, 2022 4:49:33 PM HelpBattle2 pokemonsAttack
+INFO: Pokemon Psyduck attacks!
+мая 18, 2022 4:49:33 PM HelpBattle2 pokemonsAttack
+INFO: Pokemon Squirtle attacks!
+мая 18, 2022 4:49:33 PM HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Psyduck is 0
+мая 18, 2022 4:49:33 PM HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Squirtle is 0
+мая 18, 2022 4:49:33 PM CoachesBattle battle
+INFO: Psyduck has 19 HP!
+мая 18, 2022 4:49:33 PM CoachesBattle battle
+INFO: Squirtle has 44 HP!
+мая 18, 2022 4:49:33 PM HelpBattle2 pokemonsAttack
+INFO: Pokemon Psyduck attacks!
+мая 18, 2022 4:49:33 PM HelpBattle2 pokemonsAttack
+INFO: Pokemon Squirtle attacks!
+мая 18, 2022 4:49:33 PM HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Psyduck is 0
+мая 18, 2022 4:49:33 PM HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Squirtle is 0
+мая 18, 2022 4:49:33 PM CoachesBattle battle
+INFO: Psyduck has 18 HP!
+мая 18, 2022 4:49:33 PM CoachesBattle battle
+INFO: Squirtle has 43 HP!
+мая 18, 2022 4:49:33 PM HelpBattle2 pokemonsAttack
+INFO: Pokemon Psyduck attacks!
+мая 18, 2022 4:49:33 PM HelpBattle2 pokemonsAttack
+INFO: Pokemon Squirtle attacks!
+мая 18, 2022 4:49:33 PM HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Psyduck is 0
+мая 18, 2022 4:49:33 PM HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Squirtle is 0
+мая 18, 2022 4:49:33 PM CoachesBattle battle
+INFO: Psyduck has 17 HP!
+мая 18, 2022 4:49:33 PM CoachesBattle battle
+INFO: Squirtle has 42 HP!
+мая 18, 2022 4:49:33 PM HelpBattle2 pokemonsAttack
+INFO: Pokemon Psyduck attacks!
+мая 18, 2022 4:49:33 PM HelpBattle2 pokemonsAttack
+INFO: Pokemon Squirtle attacks!
+мая 18, 2022 4:49:33 PM HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Psyduck is 0
+мая 18, 2022 4:49:33 PM HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Squirtle is 0
+мая 18, 2022 4:49:33 PM CoachesBattle battle
+INFO: Psyduck has 16 HP!
+мая 18, 2022 4:49:33 PM CoachesBattle battle
+INFO: Squirtle has 41 HP!
+мая 18, 2022 4:49:33 PM HelpBattle2 pokemonsAttack
+INFO: Pokemon Psyduck attacks!
+мая 18, 2022 4:49:33 PM HelpBattle2 pokemonsAttack
+INFO: Pokemon Squirtle attacks!
+мая 18, 2022 4:49:33 PM HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Psyduck is 0
+мая 18, 2022 4:49:33 PM HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Squirtle is 0
+мая 18, 2022 4:49:33 PM CoachesBattle battle
+INFO: Psyduck has 15 HP!
+мая 18, 2022 4:49:33 PM CoachesBattle battle
+INFO: Squirtle has 40 HP!
+мая 18, 2022 4:49:33 PM HelpBattle2 pokemonsAttack
+INFO: Pokemon Psyduck attacks!
+мая 18, 2022 4:49:33 PM HelpBattle2 pokemonsAttack
+INFO: Pokemon Squirtle attacks!
+мая 18, 2022 4:49:33 PM HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Psyduck is 0
+мая 18, 2022 4:49:33 PM HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Squirtle is 0
+мая 18, 2022 4:49:33 PM CoachesBattle battle
+INFO: Psyduck has 14 HP!
+мая 18, 2022 4:49:33 PM CoachesBattle battle
+INFO: Squirtle has 39 HP!
+мая 18, 2022 4:49:33 PM HelpBattle2 pokemonsAttack
+INFO: Pokemon Psyduck attacks!
+мая 18, 2022 4:49:33 PM HelpBattle2 pokemonsAttack
+INFO: Pokemon Squirtle attacks!
+мая 18, 2022 4:49:33 PM HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Psyduck is 0
+мая 18, 2022 4:49:33 PM HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Squirtle is 0
+мая 18, 2022 4:49:33 PM CoachesBattle battle
+INFO: Psyduck has 13 HP!
+мая 18, 2022 4:49:33 PM CoachesBattle battle
+INFO: Squirtle has 38 HP!
+мая 18, 2022 4:49:33 PM HelpBattle2 pokemonsAttack
+INFO: Pokemon Psyduck attacks!
+мая 18, 2022 4:49:33 PM HelpBattle2 pokemonsAttack
+INFO: Pokemon Squirtle attacks!
+мая 18, 2022 4:49:33 PM HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Psyduck is 0
+мая 18, 2022 4:49:33 PM HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Squirtle is 0
+мая 18, 2022 4:49:33 PM CoachesBattle battle
+INFO: Psyduck has 12 HP!
+мая 18, 2022 4:49:33 PM CoachesBattle battle
+INFO: Squirtle has 37 HP!
+мая 18, 2022 4:49:33 PM HelpBattle2 pokemonsAttack
+INFO: Pokemon Psyduck attacks!
+мая 18, 2022 4:49:33 PM HelpBattle2 pokemonsAttack
+INFO: Pokemon Squirtle attacks!
+мая 18, 2022 4:49:33 PM HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Psyduck is 0
+мая 18, 2022 4:49:33 PM HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Squirtle is 0
+мая 18, 2022 4:49:33 PM CoachesBattle battle
+INFO: Psyduck has 11 HP!
+мая 18, 2022 4:49:33 PM CoachesBattle battle
+INFO: Squirtle has 36 HP!
+мая 18, 2022 4:49:33 PM HelpBattle2 pokemonsAttack
+INFO: Pokemon Psyduck attacks!
+мая 18, 2022 4:49:33 PM HelpBattle2 pokemonsAttack
+INFO: Pokemon Squirtle attacks!
+мая 18, 2022 4:49:33 PM HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Psyduck is 0
+мая 18, 2022 4:49:33 PM HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Squirtle is 0
+мая 18, 2022 4:49:33 PM CoachesBattle battle
+INFO: Psyduck has 10 HP!
+мая 18, 2022 4:49:33 PM CoachesBattle battle
+INFO: Squirtle has 35 HP!
+мая 18, 2022 4:49:33 PM HelpBattle2 pokemonsAttack
+INFO: Pokemon Psyduck attacks!
+мая 18, 2022 4:49:33 PM HelpBattle2 pokemonsAttack
+INFO: Pokemon Squirtle attacks!
+мая 18, 2022 4:49:33 PM HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Psyduck is 0
+мая 18, 2022 4:49:33 PM HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Squirtle is 0
+мая 18, 2022 4:49:33 PM CoachesBattle battle
+INFO: Psyduck has 9 HP!
+мая 18, 2022 4:49:33 PM CoachesBattle battle
+INFO: Squirtle has 34 HP!
+мая 18, 2022 4:49:33 PM HelpBattle2 pokemonsAttack
+INFO: Pokemon Psyduck attacks!
+мая 18, 2022 4:49:33 PM HelpBattle2 pokemonsAttack
+INFO: Pokemon Squirtle attacks!
+мая 18, 2022 4:49:33 PM HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Psyduck is 0
+мая 18, 2022 4:49:33 PM HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Squirtle is 0
+мая 18, 2022 4:49:33 PM CoachesBattle battle
+INFO: Psyduck has 8 HP!
+мая 18, 2022 4:49:33 PM CoachesBattle battle
+INFO: Squirtle has 33 HP!
+мая 18, 2022 4:49:33 PM HelpBattle2 pokemonsAttack
+INFO: Pokemon Psyduck attacks!
+мая 18, 2022 4:49:33 PM HelpBattle2 pokemonsAttack
+INFO: Pokemon Squirtle attacks!
+мая 18, 2022 4:49:33 PM HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Psyduck is 0
+мая 18, 2022 4:49:33 PM HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Squirtle is 0
+мая 18, 2022 4:49:33 PM CoachesBattle battle
+INFO: Psyduck has 7 HP!
+мая 18, 2022 4:49:33 PM CoachesBattle battle
+INFO: Squirtle has 32 HP!
+мая 18, 2022 4:49:33 PM HelpBattle2 pokemonsAttack
+INFO: Pokemon Psyduck attacks!
+мая 18, 2022 4:49:33 PM HelpBattle2 pokemonsAttack
+INFO: Pokemon Squirtle attacks!
+мая 18, 2022 4:49:33 PM HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Psyduck is 0
+мая 18, 2022 4:49:33 PM HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Squirtle is 0
+мая 18, 2022 4:49:33 PM CoachesBattle battle
+INFO: Psyduck has 6 HP!
+мая 18, 2022 4:49:33 PM CoachesBattle battle
+INFO: Squirtle has 31 HP!
+мая 18, 2022 4:49:33 PM HelpBattle2 pokemonsAttack
+INFO: Pokemon Psyduck attacks!
+мая 18, 2022 4:49:33 PM HelpBattle2 pokemonsAttack
+INFO: Pokemon Squirtle attacks!
+мая 18, 2022 4:49:33 PM HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Psyduck is 0
+мая 18, 2022 4:49:33 PM HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Squirtle is 0
+мая 18, 2022 4:49:33 PM CoachesBattle battle
+INFO: Psyduck has 5 HP!
+мая 18, 2022 4:49:33 PM CoachesBattle battle
+INFO: Squirtle has 30 HP!
+мая 18, 2022 4:49:33 PM HelpBattle2 pokemonsAttack
+INFO: Pokemon Psyduck attacks!
+мая 18, 2022 4:49:33 PM HelpBattle2 pokemonsAttack
+INFO: Pokemon Squirtle attacks!
+мая 18, 2022 4:49:33 PM HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Psyduck is 0
+мая 18, 2022 4:49:33 PM HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Squirtle is 0
+мая 18, 2022 4:49:33 PM CoachesBattle battle
+INFO: Psyduck has 4 HP!
+мая 18, 2022 4:49:33 PM CoachesBattle battle
+INFO: Squirtle has 29 HP!
+мая 18, 2022 4:49:33 PM HelpBattle2 pokemonsAttack
+INFO: Pokemon Psyduck attacks!
+мая 18, 2022 4:49:33 PM HelpBattle2 pokemonsAttack
+INFO: Pokemon Squirtle attacks!
+мая 18, 2022 4:49:33 PM HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Psyduck is 0
+мая 18, 2022 4:49:33 PM HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Squirtle is 0
+мая 18, 2022 4:49:33 PM CoachesBattle battle
+INFO: Psyduck has 3 HP!
+мая 18, 2022 4:49:33 PM CoachesBattle battle
+INFO: Squirtle has 28 HP!
+мая 18, 2022 4:49:33 PM HelpBattle2 pokemonsAttack
+INFO: Pokemon Psyduck attacks!
+мая 18, 2022 4:49:33 PM HelpBattle2 pokemonsAttack
+INFO: Pokemon Squirtle attacks!
+мая 18, 2022 4:49:33 PM HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Psyduck is 0
+мая 18, 2022 4:49:33 PM HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Squirtle is 0
+мая 18, 2022 4:49:33 PM CoachesBattle battle
+INFO: Psyduck has 2 HP!
+мая 18, 2022 4:49:33 PM CoachesBattle battle
+INFO: Squirtle has 27 HP!
+мая 18, 2022 4:49:33 PM HelpBattle2 pokemonsAttack
+INFO: Pokemon Psyduck attacks!
+мая 18, 2022 4:49:33 PM HelpBattle2 pokemonsAttack
+INFO: Pokemon Squirtle attacks!
+мая 18, 2022 4:49:33 PM HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Psyduck is 0
+мая 18, 2022 4:49:33 PM HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Squirtle is 0
+мая 18, 2022 4:49:33 PM CoachesBattle battle
+INFO: Psyduck has 1 HP!
+мая 18, 2022 4:49:33 PM CoachesBattle battle
+INFO: Squirtle has 26 HP!
+мая 18, 2022 4:49:33 PM HelpBattle2 pokemonsAttack
+INFO: Pokemon Psyduck attacks!
+мая 18, 2022 4:49:33 PM HelpBattle2 pokemonsAttack
+INFO: Pokemon Squirtle attacks!
+мая 18, 2022 4:49:33 PM HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Psyduck is 0
+мая 18, 2022 4:49:33 PM HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Squirtle is 0
+мая 18, 2022 4:49:33 PM CoachesBattle battle
+INFO: Psyduck has 0 HP!
+мая 18, 2022 4:49:33 PM CoachesBattle battle
+INFO: Squirtle has 25 HP!
+мая 18, 2022 4:49:33 PM PokemonHelperClassForBattle checkWinner
+INFO: Pokemon Squirtle wins!
+мая 18, 2022 4:49:33 PM PokemonHelperClassForBattle checkWinner
+INFO: The second coach wins!
+мая 18, 2022 4:49:33 PM PokemonHelperClassForBattle checkWinner
+INFO: The pokemon is now boosted
+мая 18, 2022 4:49:33 PM PokemonHelperClassForBattle checkWinner
+INFO: Pokemon{name='Squirtle', HP=71, normalAttack=0, specialAttack=7, normalDefense=8, specialDefense=8, ability1={damage=4, stun=false, dodge=false, coolDown=3}, ability2={damage=2, stun=true, dodge=false, coolDown=2}}
+мая 18, 2022 4:49:33 PM ReadFromFile read
+INFO: Pokemon{name='Psyduck', HP=45, normalAttack=5, specialAttack=0, normalDefense=5, specialDefense=8, ability1={damage=2, stun=false, dodge=false, coolDown=4}, ability2={damage=2, stun=true, dodge=false, coolDown=5}}
+мая 18, 2022 4:49:33 PM ReadFromFile read
+INFO: Pokemon{name='Squirtle', HP=71, normalAttack=0, specialAttack=7, normalDefense=8, specialDefense=8, ability1={damage=4, stun=false, dodge=false, coolDown=3}, ability2={damage=2, stun=true, dodge=false, coolDown=2}}
+мая 18, 2022 4:49:33 PM ReadFromFile read
+INFO: FOURTH ADVENTURE BEGINS!
+мая 18, 2022 4:49:33 PM ComparePokemons bestTwoPokemons
+INFO: The best pokemon from the first coach is Vulpix!
+мая 18, 2022 4:49:33 PM ComparePokemons bestTwoPokemons
+INFO: The best pokemon from the second coach is Squirtle!
+мая 18, 2022 4:49:33 PM CoachesBattle battle
+INFO: This duel is between the following two pokemons!
+мая 18, 2022 4:49:33 PM CoachesBattle battle
+INFO: Pokemon{name='Vulpix', HP=53, normalAttack=18, specialAttack=0, normalDefense=10, specialDefense=11, ability1={damage=8, stun=true, dodge=false, coolDown=6}, ability2={damage=2, stun=false, dodge=true, coolDown=7}}
+мая 18, 2022 4:49:33 PM CoachesBattle battle
+INFO: Pokemon{name='Squirtle', HP=71, normalAttack=0, specialAttack=7, normalDefense=8, specialDefense=8, ability1={damage=4, stun=false, dodge=false, coolDown=3}, ability2={damage=2, stun=true, dodge=false, coolDown=2}}
+мая 18, 2022 4:49:33 PM HelpBattle2 pokemonsAttack
+INFO: Pokemon Vulpix attacks!
+мая 18, 2022 4:49:33 PM HelpBattle2 pokemonsAttack
+INFO: Pokemon Squirtle attacks!
+мая 18, 2022 4:49:33 PM HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Vulpix is 0
+мая 18, 2022 4:49:33 PM HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Squirtle is 0
+мая 18, 2022 4:49:33 PM CoachesBattle battle
+INFO: Vulpix has 53 HP!
+мая 18, 2022 4:49:33 PM CoachesBattle battle
+INFO: Squirtle has 61 HP!
+мая 18, 2022 4:49:33 PM HelpBattle2 pokemonsAttack
+INFO: Pokemon Vulpix attacks!
+мая 18, 2022 4:49:33 PM HelpBattle2 pokemonsAttack
+INFO: Pokemon Squirtle attacks!
+мая 18, 2022 4:49:33 PM HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Vulpix is 0
+мая 18, 2022 4:49:33 PM HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Squirtle is 0
+мая 18, 2022 4:49:33 PM CoachesBattle battle
+INFO: Vulpix has 53 HP!
+мая 18, 2022 4:49:33 PM CoachesBattle battle
+INFO: Squirtle has 51 HP!
+мая 18, 2022 4:49:33 PM HelpBattle2 pokemonsAttack
+INFO: Pokemon Vulpix attacks!
+мая 18, 2022 4:49:33 PM HelpBattle2 pokemonsAttack
+INFO: Pokemon Squirtle attacks!
+мая 18, 2022 4:49:33 PM HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Vulpix is 0
+мая 18, 2022 4:49:33 PM HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Squirtle is 0
+мая 18, 2022 4:49:33 PM CoachesBattle battle
+INFO: Vulpix has 53 HP!
+мая 18, 2022 4:49:33 PM CoachesBattle battle
+INFO: Squirtle has 41 HP!
+мая 18, 2022 4:49:33 PM HelpBattle2 pokemonsAttack
+INFO: Pokemon Vulpix attacks!
+мая 18, 2022 4:49:33 PM HelpBattle2 pokemonsAttack
+INFO: Pokemon Squirtle attacks!
+мая 18, 2022 4:49:33 PM HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Vulpix is 0
+мая 18, 2022 4:49:33 PM HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Squirtle is 0
+мая 18, 2022 4:49:33 PM CoachesBattle battle
+INFO: Vulpix has 53 HP!
+мая 18, 2022 4:49:33 PM CoachesBattle battle
+INFO: Squirtle has 31 HP!
+мая 18, 2022 4:49:33 PM HelpBattle2 pokemonsAttack
+INFO: Pokemon Vulpix attacks!
+мая 18, 2022 4:49:33 PM HelpBattle2 pokemonsAttack
+INFO: Pokemon Squirtle attacks!
+мая 18, 2022 4:49:33 PM HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Vulpix is 0
+мая 18, 2022 4:49:33 PM HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Squirtle is 0
+мая 18, 2022 4:49:33 PM CoachesBattle battle
+INFO: Vulpix has 53 HP!
+мая 18, 2022 4:49:33 PM CoachesBattle battle
+INFO: Squirtle has 21 HP!
+мая 18, 2022 4:49:33 PM HelpBattle2 pokemonsAttack
+INFO: Pokemon Vulpix attacks!
+мая 18, 2022 4:49:33 PM HelpBattle2 pokemonsAttack
+INFO: Pokemon Squirtle attacks!
+мая 18, 2022 4:49:33 PM HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Vulpix is 0
+мая 18, 2022 4:49:33 PM HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Squirtle is 0
+мая 18, 2022 4:49:33 PM CoachesBattle battle
+INFO: Vulpix has 52 HP!
+мая 18, 2022 4:49:33 PM CoachesBattle battle
+INFO: Squirtle has 11 HP!
+мая 18, 2022 4:49:33 PM HelpBattle2 pokemonsAttack
+INFO: Pokemon Vulpix attacks!
+мая 18, 2022 4:49:33 PM HelpBattle2 pokemonsAttack
+INFO: Pokemon Squirtle attacks!
+мая 18, 2022 4:49:33 PM HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Vulpix is 0
+мая 18, 2022 4:49:33 PM HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Squirtle is 0
+мая 18, 2022 4:49:33 PM CoachesBattle battle
+INFO: Vulpix has 51 HP!
+мая 18, 2022 4:49:33 PM CoachesBattle battle
+INFO: Squirtle has 1 HP!
+мая 18, 2022 4:49:33 PM HelpBattle2 pokemonsAttack
+INFO: Pokemon Vulpix attacks!
+мая 18, 2022 4:49:33 PM HelpBattle2 pokemonsAttack
+INFO: Pokemon Squirtle attacks!
+мая 18, 2022 4:49:33 PM HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Vulpix is 0
+мая 18, 2022 4:49:33 PM HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Squirtle is 0
+мая 18, 2022 4:49:33 PM CoachesBattle battle
+INFO: Vulpix has 50 HP!
+мая 18, 2022 4:49:33 PM CoachesBattle battle
+INFO: Squirtle has -9 HP!
+мая 18, 2022 4:49:33 PM PokemonHelperClassForBattle checkWinner
+INFO: Pokemon Vulpix wins!
+мая 18, 2022 4:49:33 PM PokemonHelperClassForBattle checkWinner
+INFO: The first coach wins!
+мая 18, 2022 4:49:33 PM PokemonHelperClassForBattle checkWinner
+INFO: The pokemon is now boosted
+мая 18, 2022 4:49:33 PM PokemonHelperClassForBattle checkWinner
+INFO: Pokemon{name='Vulpix', HP=54, normalAttack=19, specialAttack=0, normalDefense=11, specialDefense=12, ability1={damage=8, stun=true, dodge=false, coolDown=6}, ability2={damage=2, stun=false, dodge=true, coolDown=7}}
